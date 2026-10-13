@@ -21,5 +21,5 @@ export default defineConfig({
     alias: { '@': fileURLToPath(new URL('./src', import.meta.url)) },
   },
   // Имя репозитория на GitHub. Когда подключишь свой домен — поменяй на '/'
-  base: '/Portfolio/',
+  base: '/',
 })
