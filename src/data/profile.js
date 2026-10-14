@@ -32,14 +32,14 @@ export const profile = {
     {
       period: "10.2026 — present",
       title: "Computer Science student",
-      place: "NDU named after Nikolai Gogol, Ukraine · distance learning",
-      text: "First year of Computer Science at the Ukrainian university NDU named after Nikolai Gogol — studies started in October 2026.",
+      place: "Nizhyn State University named after Mykola Gogol, Ukraine · distance learning",
+      text: "First year of Computer Science at the Nizhyn State University named after Mykola Gogol(UA) — studies started in October 2026.",
     },
     {
-      period: "07.2026 — present",
+      period: "07.2026 — 10.2026",
       title: "Product Manager",
       place: "Swiss Filling and Packaging AG, Wynigen",
-      text: "My current role — managing products and day-to-day operations. A steady position in Switzerland that brings together responsibility and everything I've picked up along the way.",
+      text: "My role was — managing products and day-to-day operations. A steady position in Switzerland that brings together responsibility and everything I've picked up along the way.",
     },
     {
       period: "2026",
@@ -50,8 +50,8 @@ export const profile = {
     {
       period: "April 2026",
       title: "German B2 course",
-      place: "academia, Bern",
-      text: "Completed a B2 German course at academia in Bern.",
+      place: "Academia, Bern",
+      text: "Completed a B2 German course at Academia in Bern.",
     },
     {
       period: "08.2024 — 06.2025",
@@ -61,7 +61,7 @@ export const profile = {
     },
     {
       period: "12.2024 — 03.2025",
-      title: "Schnupperpraktika — Informatiker",
+      title: "Schnupperlehre — Informatiker",
       place: "Bern",
       text: "Trial apprenticeships as an IT specialist: MC Software AG (12.2024), TF Bern (01.2025) and berufsbildungscenter Bern (03.2025).",
     },
@@ -79,12 +79,12 @@ export const profile = {
       },
       {
         title: "Interested in",
-        items: ["Music", "Nature", "Photography", "Gaming"],
+        items: ["Music", "Nature", "Creating New", "Learning", "Photography", "Gaming"],
       },
     ],
     languages: [
       { name: "Ukrainian", level: "Native" },
-      { name: "Russian", level: "Native" },
+      { name: "Russian", level: "Fluent" },
       { name: "English", level: "B2" },
       { name: "German", level: "B2" },
     ],
