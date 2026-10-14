@@ -10,6 +10,7 @@ export default function Footer() {
         <div>
           <p className="font-display text-3xl">{profile.name}</p>
           <p className="mt-2 text-sm text-muted-foreground">{profile.role}</p>
+          <p className="mt-1 text-xs text-muted-foreground/70">Ігор Борисенко · Игорь Борисенко</p>
         </div>
 
         <div className="flex flex-col gap-2">
