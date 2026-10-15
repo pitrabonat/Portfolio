@@ -8,17 +8,16 @@ export const profile = {
   status: "Currently searching for a Lehrstelle",
   heroWords: ["everything", "new things", "my own thing", "life"],
   heroIntro:
-    "I study Computer Science, work and keep trying new things. This page is the short version of me — what I'm about, what I can do, and how to reach me.",
+    "I study Computer Science and keep trying new things. This page is the short version of me — what I'm about, what I can do, and how to reach me.",
   quote: [
-    "I'm not one thing — I'm the sum of everything I've dared to try.",
-    "Everything that can be fixed — must be fixed.",
+    "Life is our resume. It is our story to tell, and the choices we make write the chapters. Can we live in a way where we look forward to looking back?",
   ],
   facts: [
     { label: "Born", value: "23.04.2008" },
     { label: "City", value: "Bern, Switzerland" },
-    { label: "Languages", value: "Ukrainian · Russian · English · German" },
-    { label: "Status", value: "Working & studying" },
-    { label: "Interests", value: "Music · nature · photo · gaming" },
+    { label: "Languages", value: "German · English · Russian · Ukrainian" },
+    { label: "Status", value: "Studying" },
+    { label: "Interests", value: "Music · nature · photo · gaming · learning" },
   ],
   aboutIntro: "A short, honest note on who I am and what I'm about — no big titles, just me.",
   about: [
